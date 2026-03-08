@@ -42,10 +42,6 @@ Design Tool: Canva
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=pughal-36&show_icons=true&theme=tokyonight)
-
 ---
 ## ⚡ Fun Fact
 
