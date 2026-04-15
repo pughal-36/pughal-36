@@ -51,6 +51,7 @@ whether it's code, systems, or mechanical parts.
 ## 📫 Connect With Me
 
 GitHub: https://github.com/Pughal-36
+linkedIn: https://www.linkedin.com/in/pughalj/
 <!--
 **pughal-36/pughal-36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
