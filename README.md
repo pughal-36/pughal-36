@@ -1,131 +1,52 @@
+<div align="center">
+  <img src="assets/header.png" alt="Header" width="1000"/>
+</div>
+
+<h1 align="center">ABOUT ME</h1>
+
+<table align="center">
+  <tr>
+    <td width="300" align="center">
+      <img src="assets/pers.png" width="280" alt="Pughal"/>
+    </td>
+    <td>
+      <p>
+        Hey, I'm <b>Pughal</b>. Second-year <b>B.Tech IT</b> student at
+        <b>Nandha Engineering College</b>. I build things before I fully know
+        what I'm doing, then figure it out along the way.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Frontend_Engineer-111?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/UI/UX-111?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Hackathons-111?style=for-the-badge"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h1 align="center">Experience</h1>
 
 <div align="center">
-
-```
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│    ██████╗ ██╗   ██╗ ██████╗ ██╗  ██╗ █████╗ ██╗         │
-│    ██╔══██╗██║   ██║██╔════╝ ██║  ██║██╔══██╗██║         │
-│    ██████╔╝██║   ██║██║  ███╗███████║███████║██║         │
-│    ██╔═══╝ ██║   ██║██║   ██║██╔══██║██╔══██║██║         │
-│    ██║     ╚██████╔╝╚██████╔╝██║  ██║██║  ██║███████╗    │
-│    ╚═╝      ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    │
-│                                                          │
-│         [ BUILDER · DESIGNER · THINKER ]                 │
-└──────────────────────────────────────────────────────────┘
-```
-
+  <p><b>Frontend Engineering Intern</b><br>FlyRank</p>
 </div>
 
 ---
 
-<div align="center">
+### Languages & Frameworks
 
-### `PRODUCT BRIEF ── REV 1.0 ── STATUS: ACTIVE`
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,c,dart,html,css,react,next,nodejs,fastapi,flutter,electron,threejs,tailwind&perline=8" />
 
-</div>
+### Databases
 
-```yaml
-ENTITY        : Pughal Jeyaprakash
-CLASS         : Information Technology Undergrad × Product Thinker
-BUILD ENV     : Nandha Engineering College, Tamil Nadu 🇮🇳
-KERNEL        : Curiosity OS  ·  uptime: 18 yrs
-COMPILE FLAGS : --creativity HIGH --perfectionism ON --sleep OPTIONAL
-```
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,supabase,firebase&perline=8" />
 
----
+### Tools & Deployment
 
-## ◈ DESIGN PHILOSOPHY
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,docker,vercel,netlify&perline=8" />
 
-> *"Good design is invisible. Great design makes you forget someone designed it."*
-
-I don't separate **building** from **designing.**
-Every line of code I write is a decision.
-Every product I imagine has a user at the center.
-
-I'm the kind of person who dreams up a product idea at 2 AM and starts sketching it by 2:05.
-
----
-
-## ◈ TECHNICAL SPEC  `// skills.manifest`
-
-```
-FRONTEND ──────────────────────────────────────── [████░░░░░░] 40%
-  ├── HTML / CSS ··········· GETTING THERE
-  ├── JavaScript ··········· STILL FIGURING OUT
-  └── React ················ JUST MET, COMPLICATED RELATIONSHIP
-
-DESIGN TOOLS ─────────────────────────────────── [█████░░░░░] 50%
-  ├── Figma ················ INTERMEDIATE
-  ├── 3D Modeling ·········· EXPLORING
-  └── Prototyping ·········· ACTIVE
-
-PRODUCT THINKING ─────────────────────────────── [██████░░░░] 60%
-  ├── Problem Framing ······ SHARP
-  ├── Innovation Ideation · COMPETITIVE
-  └── Pitch Craft ·········· TESTED IN FIELD ✦
-
-REAL LIFE ─────────────────────────────────────── [▓▓░░░░░░░░] 25%
-  └── Surviving College ···· IN PROGRESS (SEND HELP)
-```
-
----
-
-## ◈ PROJECTS  `// deployed.log`
-
-**`[01]`** &nbsp; **[STUDY HUB APP]** — *Interactive Academic Tool*
-> Because learning tools shouldn't be boring.
-> `Web App` · `UX` · `Education` · 🔧 **CONCEPT PHASE**
- 
-**`[02]`** &nbsp; **[MORE LOADING...]** — *Something is always cooking.*
-> `[░░░░░░░░░░] 0% — brain still buffering`
-
-## ◈ CONNECT  `// handshake --init`
 
 <div align="center">
-
-| Channel | Link |
-|---|---|
-| 💼 LinkedIn |https://www.linkedin.com/in/pughalj/ |
-| 🌐 Portfolio | *coming soon — worth the wait* |
-
+  <img src="assets/sword.jpg" alt="Footer" width="1000"/>
 </div>
-
----
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════╗
-║                                            ║
-║    CURRENTLY ACCEPTING:                    ║
-║    +  Hackathon Invites                    ║
-║    +  Design Collabs                       ║
-║    +  Wild Problem Statements              ║
-║                                            ║
-║    NOT ACCEPTING:                          ║
-║    x  Mediocrity                           ║
-║                                            ║
-╚════════════════════════════════════════════╝
-```
-
-*This README was not generated with a template.*
-*It was designed.*
-
-`© Pughal Jeyaprakash · still compiling · v1.0.0`
-
-</div>
-<!--
-**pughal-36/pughal-36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
