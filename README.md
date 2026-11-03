@@ -7,7 +7,7 @@
 <table align="center">
   <tr>
     <td width="300" align="center">
-      <img src="assets/pers.png" width="280" alt="Pughal"/>
+      <img src="assets/pers.jpg" width="280" alt="Pughal"/>
     </td>
     <td>
       <p>
