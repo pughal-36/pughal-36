@@ -16,5 +16,5 @@ export function TopBar() {
 }
 
 export function TabButtons() {
-  return <>{tabItems.map((item) => <TabsTrigger key={item.value} value={item.value} className="relative py-2 text-xs text-paper/50 transition-colors hover:text-paper focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber data-[state=active]:text-paper">{item.label}</TabsTrigger>)}</>;
+  return <>{tabItems.map((item) => <TabsTrigger key={item.value} value={item.value} className="focus-ring relative py-2 text-xs text-paper/50 transition-colors hover:text-paper data-[state=active]:text-paper">{item.label}</TabsTrigger>)}</>;
 }

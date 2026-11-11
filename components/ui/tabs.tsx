@@ -17,7 +17,7 @@ export function TabsList({ className, ...props }: React.HTMLAttributes<HTMLDivEl
 export function TabsTrigger({ value, className, children, ...props }: React.ButtonHTMLAttributes<HTMLButtonElement> & { value: string }) {
   const context = React.useContext(TabsContext);
   if (!context) throw new Error("TabsTrigger must be used inside Tabs");
-  return <button role="tab" aria-selected={context.value === value} tabIndex={context.value === value ? 0 : -1} className={cn(className)} onClick={() => context.onValueChange(value)} {...props}>{children}</button>;
+  return <button role="tab" aria-selected={context.value === value} data-state={context.value === value ? "active" : "inactive"} tabIndex={context.value === value ? 0 : -1} className={cn(className)} onClick={() => context.onValueChange(value)} {...props}>{children}</button>;
 }
 
 export function TabsContent({ value, className, children, ...props }: React.HTMLAttributes<HTMLDivElement> & { value: string }) {
